@@ -3782,7 +3782,7 @@ SKILL_20150414_003781	Companion threats and prevents enemy from approaching. Ene
 SKILL_20150414_003782	Rush Dog
 SKILL_20150414_003783	Make companion rush forward to attack.
 SKILL_20150414_003784	Heal addicted ally. Poison with higher level than Detox can't be healed but its duration decrease.
-SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Blow toxic arrow and inflict continuous damage.
+SKILL_20150414_003785	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Fire toxic arrow and inflict continuous damage.
 SKILL_20150414_003786	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Throw jar of Poison to create poisonous puddle. Enemies become addicted when stepping on the puddle.
 SKILL_20150414_003787	{#DD5500}{ol}[Physical] - [Poison] - [Stab]{/}{/}{nl}Throw hairpin to parasite on enemy. Venomous insect is born when the host is killed.
 SKILL_20150414_003788	Hide yourself in an empty container. Blocks agains few Physical attacks.
@@ -3796,7 +3796,7 @@ SKILL_20150414_003795	Hide on the ground. You can attack but cannot move.
 SKILL_20150414_003796	Steal enemy's trap and magic circle. You may use it alter when you need it.
 SKILL_20150414_003797	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Enemy explodes when killed with this attack and your party's strength temporarily increase.
 SKILL_20150414_003798	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Throw tear gas on target area. Enemies fall under [Dark].
-SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Make continuous attack using sword. Double attack with high rate of critical and has chance of fainting enemy.
+SKILL_20150414_003799	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Perform a continuous attack using sword. Double attack with high rate of critical and has chance of fainting enemy.
 SKILL_20150414_003800	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot broadhead arrow. Enemies hit falls under Bleed.
 SKILL_20150414_003801	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot bodkin arrow with strong penetration. Defense of enemy hit temporarily decreases and nullify magic protecting the enemy.
 SKILL_20150414_003802	{#DD5500}{ol}[Physical] - [Stab]{/}{/}{nl}Shoot barbed arrow. Hit count depends on defense type of enemy.
@@ -3824,20 +3824,20 @@ SKILL_20150414_003823	Hand and Shoot
 SKILL_20150414_003824	Hang on the hawk. You do not receive damage while hanging and can make normal attacks on enemies.
 SKILL_20150414_003825	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle that recovers HP or attacks enemy. Does not apply to enemies in air.
 SKILL_20150414_003826	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create magic circle that heals level 1 abnormal state of allies or inflict damage on enemy. Not applied to enemies in air.
-SKILL_20150414_003827	Create magic circle that continuously decerase defense of enemy.
+SKILL_20150414_003827	Create magic circle that continuously decreases defense of enemy.
 SKILL_20150414_003828	Create magic circle that increases skill level once.
 SKILL_20150414_003829	Summon holy torch to increase HP recovery of nearby allies.
 SKILL_20150414_003830	Create magic circle that increase ally's critical or decrease enemy's critical.
 SKILL_20150414_003831	Increase number of beneficial buff that the party members can receive.
 SKILL_20150414_003832	{#993399}{ol}[Magic] - [Lightning]{/}{/}{nl}Use fhe powerer Thurderer for magic circle that drop lightning on the enemy.
-SKILL_20150414_003833	Make a mark on the enemy. Strength and Intelligence increase when you or your party members kill the marked enemy.
+SKILL_20150414_003833	Make a mark on the enemy. Strength and Intelligence increases when you or your party members kill the marked enemy.
 SKILL_20150414_003834	Create magic circle that help keep beneficial buff of you and your party.
 SKILL_20150414_003835	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Spray holy water to increase defense of allies and inflict damage to enemies.
-SKILL_20150414_003836	Create magic circle where ally's DEX increase and enemy's ecasion and Physical defense decrease.
-SKILL_20150414_003837	Give blessings that grant additional damage on attacks of party members.
+SKILL_20150414_003836	Create magic circle where ally's DEX increase and enemy's Evasion and Physical defense decrease.
+SKILL_20150414_003837	Give blessings that increases attack of party members.
 SKILL_20150414_003838	Heal target under 'Incapable of combat' status.
 SKILL_20150414_003839	Temporarily grant Holy attribute on you and your party's attacks.
-SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create exorcism circle that attacks enemies stepping it then give continuous damage.
+SKILL_20150414_003840	{#993399}{ol}[Magic] - [Holy]{/}{/}{nl}Create exorcism circle that damages enemies stepping on it then give continuous damage.
 SKILL_20150414_003841	Curse enemy to decrease its magic defense and prevent recovery.
 SKILL_20150414_003842	{#993399}{ol}[Magic] - [Dark]{/}{/}{nl}Control enemy under curse and inflict damage. Bonus damage applies on 3rd attack.
 SKILL_20150414_003843	Use monkey skull to lure zombies to desired area.
@@ -3854,9 +3854,9 @@ SKILL_20150414_003853	Carve Statue of Laima, Goddess of Fate. {nl}Skill cooltime
 SKILL_20150414_003854	Cooltime -#{CaptionRatio}#%{nl}Statue duration #{CaptionRatio2}# seconds{nl}Use 4 cedar woods
 SKILL_20150414_003855	{#993399}{ol}[Magic] - [Fire]{/}{/}{nl}Carve an owl statue that attacks the enemy.
 SKILL_20150414_003856	Attack #{SkillAtkAdd}#{nl}Defend #{CaptionRatio}#times{nl}Duration #{CaptionTime}# seconds{nl}Use 3 Oak wood
-SKILL_20150414_003857	Carve a holy tree that silence nearby enemies.
+SKILL_20150414_003857	Carve a holy tree that silences nearby enemies.
 SKILL_20150414_003858	Statue duration #{CaptionRatio}# seconds{nl}Use 6 Ash woods
-SKILL_20150414_003859	Carve Statue of Ausrine, Goddess of Morning Star. You and your allied do not receive damage after rotating around the statue three times.
+SKILL_20150414_003859	Carve Statue of Ausrine, Goddess of Morning Star. You and your allies do not receive damage after circling the statue three times.
 SKILL_20150414_003860	{#339999}{ol}[Blessing of Goddess]{/}{/} Duration #{CaptionRatio}# seconds{nl}Goddess Statue duration 30 seconds{nl}Use 4 Cedar wood
 SKILL_20150414_003861	Move your spirit out of the body. The spirit can only move near the body.
 SKILL_20150414_003862	Move body to the spirit to unite again. Can only be used when spirit is out of body.
@@ -3868,11 +3868,11 @@ SKILL_20150414_003867	Attack soul
 SKILL_20150414_003868	Basic attack on spirits when outside the body.
 SKILL_20150414_003869	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Strongly smack down enemy.
 SKILL_20150414_003870	Activate aura and increase HP recovery of allies nearby.
-SKILL_20150414_003871	Enemies attacked have chance of creating magic circle of conversion.
-SKILL_20150414_003872	Temporarily increase attribute resistance of you and your party.
+SKILL_20150414_003871	Enemies attacked within magic circle have a chance to be converted.
+SKILL_20150414_003872	Temporarily increase attribute resistance of you anbe converted.
 SKILL_20150414_003873	Fice, Ice, Lightning Resistance +#{CaptionRatio}# {nl}Poison, Earth Resistance +#{CaptionRatio2}#{nl}Buff Duration #{CaptionTime}#seconds
 SKILL_20150414_003874	May kill mutant or demon type enemy at once.
-SKILL_20150414_003875	Make a protective wall that push away enemies and block them from entering.
+SKILL_20150414_003875	Make a protective wall that pushes away enemies and block them from entering.
 SKILL_20150414_003876	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Make skin hard as iron and bounce off enemy attacks to infllict damage.
 SKILL_20150414_003877	Reflect attack amounting to target's Physical attack.{nl}Reflect damage +#{SkillAtkAdd}#{nl}Ranged projectile, cannot defend magic
 SKILL_20150414_003878	{#DD5500}{ol}[Physical] - [Hit]{/}{/}{nl}Use both arms to attack enemy continuously.
@@ -3917,9 +3917,9 @@ SKILL_20150414_003916	Guard set buff
 SKILL_20150414_003917	Status buff where Will of Guard buff can be activated
 SKILL_20150414_003918	Will of Guard
 SKILL_20150414_003919	Attack against Demon type monster +125
-SKILL_20150414_003920	Enemis hit with [Umbo Blow] falls down and pushing force is increased by 40 per attribute level.
+SKILL_20150414_003920	Enemies hit with [Umbo Blow] falls down and pushing force is increased by 40 per attribute level.
 SKILL_20150414_003921	Mordschlag: Cloth Armor
-SKILL_20150414_003922	Apply effect of Mordschlag on leather armor also to cloth armor type
+SKILL_20150414_003922	Apply effect of Mordschlag on leather armor and cloth armor type
 SKILL_20150414_003923	Hangman's Knot gives 20% of character's magic damage per attribute level as additional damage
 SKILL_20150414_003924	Targets have 5% chance of falling under [Weaken Defense] per attribute level when hit with basic attack during spirit state.
 SKILL_20150414_003925	When using [Resist Elements] Fire, Ice, Lightning Property increase by 5 per Attribute level and Poison, Earth Property decrease by 5 per Attribute level
@@ -3965,13 +3965,13 @@ SKILL_20150414_003964	Damage of [Magic Arrow] increase per attribute level.
 SKILL_20150414_003965	Magic Arrow: Enhance 2
 SKILL_20150414_003966	Damage of [Magic Arrow] is enhanced to Fletcher Circle 3.
 SKILL_20150414_003967	Distribution Table: Salad
-SKILL_20150414_003968	Duration of [Install Distribution Table] Salad increase by a minute per level.
+SKILL_20150414_003968	Duration of [Install Distribution Table] Salad increases by a minute per level.
 SKILL_20150414_003969	Distribution Table: Sandwich
-SKILL_20150414_003970	Duration of [Install Distribution Table] Sandwich increase by a minute per level.
+SKILL_20150414_003970	Duration of [Install Distribution Table] Sandwich increase bys a minute per level.
 SKILL_20150414_003971	Distribution Table: Soup
-SKILL_20150414_003972	Duration of [Install Distribution Table] Soupincrease by a minute per level.
+SKILL_20150414_003972	Duration of [Install Distribution Table] Soup increases by a minute per level.
 SKILL_20150414_003973	Distribution Table: Yogurt
-SKILL_20150414_003974	Duration of [Install Distribution Table] Yogurt increase by a minute per level.
+SKILL_20150414_003974	Duration of [Install Distribution Table] Yogurt increases by a minute per level.
 SKILL_20150414_003975	High Guard: Increase Defense
 SKILL_20150414_003976	Defense of [High Guard] increases by 1 per attribute level.
 SKILL_20150414_003977	Defense of [Swell Right Arm] increases by 1 per attribute level.
@@ -4038,7 +4038,7 @@ SKILL_20150428_004037	Key level +#{CaptionRatio}#
 SKILL_20150428_004038	Double Weapon Assault
 SKILL_20150428_004039	There is a chance of stealing enemy's item when you attack monsters while the flagged is pinned.
 SKILL_20150428_004040	Reduce skill casting time. Applied once on the next skill.
-SKILL_20150428_004041	Damage decrease with more links{nl}Max. links #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds{nl}Use 16 Stamina
+SKILL_20150428_004041	Damage decreases with more links{nl}Max. links #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds{nl}Use 16 Stamina
 SKILL_20150428_004042	Max. links #{CaptionRatio}#{nl}Duration #{CaptionTime}# seconds
 SKILL_20150428_004043	Tighten link to gather up enemy.
 SKILL_20150428_004044	{#339999}{ol}[Bind]{/}{/} Duration #{CaptionTime}# seconds
@@ -4104,7 +4104,7 @@ SKILL_20150428_004103	Status buff where Legacy of Legwyn Family buff can be trig
 SKILL_20150428_004104	Legacy of Legwyn Family
 SKILL_20150428_004105	Recover SP per second. Total of 200 SP is recovered for 5 seconds.
 SKILL_20150428_004106	Critical rate of [Thrust] is increase by 5% per level.
-SKILL_20150428_004107	Hit damage of [Synchro Thrusting] decrease by 10% per attribute level, and Stab damage increease by 20% per attribute level.
+SKILL_20150428_004107	Blunt damage of [Synchro Thrusting] decrease by 10% per attribute level, and Stab damage increease by 20% per attribute level.
 SKILL_20150428_004108	Splash increases by 3 while [Finestra] is activated, Evasion decrease rate is doubled
 SKILL_20150428_004109	[Montano] triggered [Slow] on target for 10 seconds. Duration of [Slow] increases by 3/2/1 second for small/medium/large monsters respectively.
 SKILL_20150428_004110	Lethargy: Additional damage
